@@ -77,8 +77,8 @@ cd $HOME
 pkg update && pkg upgrade
 pkg install git
 pkg install wget
-git clone https://github.com/testevrzn/botzin
-cd botzin
+git clone https://github.com/testevrzn/kp
+cd kp
 pkg install unzip
 pkg install nodejs
 pkg inatall ffmpeg
