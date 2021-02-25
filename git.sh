@@ -77,8 +77,8 @@ cd $HOME
 pkg update && pkg upgrade
 pkg install git
 pkg install wget
-git clone https://github.com/jajalhd/kp
-cd kp
+git clone https://github.com/jajalhd/botzada
+cd botzada
 pkg install unzip
 pkg install nodejs
 pkg inatall ffmpeg
