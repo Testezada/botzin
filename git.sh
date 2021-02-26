@@ -77,8 +77,8 @@ cd $HOME
 pkg update && pkg upgrade
 pkg install git
 pkg install wget
-git clone https://github.com/jajalhd/teste1
-cd teste1
+git clone https://github.com/jajalhd/kp
+cd kp
 pkg install unzip
 pkg install nodejs
 pkg inatall ffmpeg
